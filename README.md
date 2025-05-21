@@ -21,12 +21,7 @@ The goal is to:
 
 
 
-
-
-
-
-
-2 Lab Environment Setup 
+2 Lab Environment Setup: 
 
  Download and Install VirtualBox
  
