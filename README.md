@@ -20,6 +20,7 @@ The goal is to:
 
 
 2 Lab Environment Setup 
+
  Download and Install VirtualBox
  Download Kali Linux and Create the Kali Linux Virtual Machine
  Download Ubuntu Server and Create the Ubuntu Server Virtual Machine 
