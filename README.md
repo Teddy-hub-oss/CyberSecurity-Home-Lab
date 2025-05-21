@@ -28,7 +28,8 @@ The goal is to:
  Download Ubuntu Server and Create the Ubuntu Server Virtual Machine 
 
 
-3 Enable Bridged Networking for Ubuntu and Kali Linux.
+3 Enable Bridged Networking for Ubuntu and Kali Linux
+
 To have VMs appear on the same network as your host and each other 
  Install Guest Additions can help with screen resizing shared clipboard and shared folders
 
