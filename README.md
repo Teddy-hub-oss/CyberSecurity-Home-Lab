@@ -31,6 +31,7 @@ The goal is to:
 3 Enable Bridged Networking for Ubuntu and Kali Linux
 
 To have VMs appear on the same network as your host and each other 
+
  Install Guest Additions can help with screen resizing shared clipboard and shared folders
 
 
