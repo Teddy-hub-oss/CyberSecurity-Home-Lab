@@ -1,8 +1,8 @@
 
 # CyberSecurity-Home-Lab
-Web Application Firewall Home Lab Using SafeLine WAF
+# Web Application Firewall Home Lab Using SafeLine WAF
 
-1. Lab Architecture and Overview
+# 1 Lab Architecture and Overview
 
 In this lab, we will build a cybersecurity home lab using VirtualBox, Kali Linux,
 Ubuntu, and SafeLine WAF.
@@ -16,7 +16,7 @@ b5ebb81222d62e7fc6/img.png)
 
 
 
-The goal is to:
+# The goal is to:
 
 1 Set up a vulnerable web application on Ubuntu, the web will be Damn Vulnerable Web Application(DVWA)
 
@@ -32,7 +32,7 @@ The goal is to:
 
 
 
-2 Lab Environment Setup: 
+# 2 Lab Environment Setup: 
 
  Download and Install VirtualBox
  
@@ -41,14 +41,14 @@ The goal is to:
  Download Ubuntu Server and Create the Ubuntu Server Virtual Machine 
 
 
-3 Enable Bridged Networking for Ubuntu and Kali Linux
+# 3 Enable Bridged Networking for Ubuntu and Kali Linux
 
 To have VMs appear on the same network as your host and each other 
 
  Install Guest Additions can help with screen resizing shared clipboard and shared folders
 
 
-4 Ubuntu Server Configuration:
+# 4 Ubuntu Server Configuration:
 
 4.1 Update the Package List and Upgrade
 
@@ -61,8 +61,8 @@ sudo apt-get install -y net-tools
 Install OpenSSL:
 
 suod apt-get install -y openssl
-
-4.2 Install and Configuring LAMP Stack
+ 
+# 4.2 Install and Configuring LAMP Stack
 
 Install Apache2, PHP, and MYSQL:
 
