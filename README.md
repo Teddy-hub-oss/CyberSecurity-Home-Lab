@@ -29,14 +29,14 @@
  Download Ubuntu Server and Create the Ubuntu Server Virtual Machine 
 
 
-## 3 Enable Bridged Networking for Ubuntu and Kali Linux
+### 3 Enable Bridged Networking for Ubuntu and Kali Linux
 
 To have VMs appear on the same network as your host and each other 
 
  Install Guest Additions can help with screen resizing shared clipboard and shared folders
 
 
-## 4 Ubuntu Server Configuration:
+### 4 Ubuntu Server Configuration:
 
 4.1 Update the Package List and Upgrade
 
@@ -50,7 +50,7 @@ Install OpenSSL:
 
 suod apt-get install -y openssl
  
-## 4.2 Install and Configuring LAMP Stack
+### 4.2 Install and Configuring LAMP Stack
 
 Install Apache2, PHP, and MYSQL:
 
