@@ -2,7 +2,7 @@
 # CyberSecurity-Home-Lab
 # Web Application Firewall Home Lab Using SafeLine WAF
 
-# 1 Lab Architecture and Overview
+ 1 Lab Architecture and Overview
 
 In this lab, we will build a cybersecurity home lab using VirtualBox, Kali Linux,
 Ubuntu, and SafeLine WAF.
