@@ -1,5 +1,5 @@
 
-## CyberSecurity-Home-Lab
+# CyberSecurity-Home-Lab
 ## Web Application Firewall Home Lab Using SafeLine WAF
 
 ### 1 Lab Architecture and Overview
@@ -10,7 +10,7 @@
 ![image alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/main/img.png?raw=true)
 
 
-## The goal is to:
+### The goal is to:
 
 1 Set up a vulnerable web application on Ubuntu, the web will be Damn Vulnerable Web Application(DVWA)
 
@@ -20,7 +20,7 @@
 
 4 HTTP flood defense, custom deny rules, etc
 
-## 2 Lab Environment Setup: 
+### 2 Lab Environment Setup: 
 
  Download and Install VirtualBox
  
