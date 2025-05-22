@@ -1,6 +1,6 @@
 
 # CyberSecurity-Home-Lab
-## Web Application Firewall Home Lab Using SafeLine WAF
+# Web Application Firewall Home Lab Using SafeLine WAF
 
 ## 1 Lab Architecture and Overview
 
