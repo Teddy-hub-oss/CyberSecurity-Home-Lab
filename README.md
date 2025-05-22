@@ -16,7 +16,6 @@ b5ebb81222d62e7fc6/img.png)
 
 
 
-
 The goal is to:
 
 1 Set up a vulnerable web application on Ubuntu, the web will be Damn Vulnerable Web Application(DVWA)
