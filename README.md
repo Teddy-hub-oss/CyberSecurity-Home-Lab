@@ -4,8 +4,7 @@
 
 ## 1 Lab Architecture and Overview
 
-### In this lab, we will build a cybersecurity home lab using VirtualBox, Kali Linux,
-Ubuntu, and SafeLine WAF.
+#### In this lab, we will build a cybersecurity home lab using VirtualBox, Kali Linux,Ubuntu, and SafeLine WAF.
 
 
 ![image alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/main/img.png?raw=true)
