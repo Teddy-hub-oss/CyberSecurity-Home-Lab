@@ -8,7 +8,7 @@ In this lab, we will build a cybersecurity home lab using VirtualBox, Kali Linux
 Ubuntu, and SafeLine WAF.
 
 
-![image alt] (https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/main/img.png?raw=true)
+![image alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/main/img.png?raw=true)
 
 ![image alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/main/mycar.jpeg?raw=true)
 
