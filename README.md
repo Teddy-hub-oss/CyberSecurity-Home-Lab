@@ -22,12 +22,6 @@
 
 4 HTTP flood defense, custom deny rules, etc
 
-
-
-
-
-
-
 ## 2 Lab Environment Setup: 
 
  Download and Install VirtualBox
