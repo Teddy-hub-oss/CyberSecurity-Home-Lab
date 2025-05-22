@@ -1,3 +1,4 @@
+
 # CyberSecurity-Home-Lab
 Web Application Firewall Home Lab Using SafeLine WAF
 
@@ -6,7 +7,15 @@ Web Application Firewall Home Lab Using SafeLine WAF
 In this lab, we will build a cybersecurity home lab using VirtualBox, Kali Linux,
 Ubuntu, and SafeLine WAF.
 
-![image alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/fbbc94de816f74d861977db5ebb81222d62e7fc6/img.png)
+![image 
+alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/fbbc94de816f74d861977d
+b5ebb81222d62e7fc6/img.png)
+
+
+
+
+
+
 
 The goal is to:
 
@@ -17,6 +26,9 @@ The goal is to:
 3 to Show how SafeLine WAF protects against such attacks.
 
 4 HTTP flood defense, custom deny rules, etc
+
+
+
 
 
 
@@ -37,9 +49,9 @@ To have VMs appear on the same network as your host and each other
  Install Guest Additions can help with screen resizing shared clipboard and shared folders
 
 
-4 Ubuntu Server Configuration 
+4 Ubuntu Server Configuration:
 
-4.1 Update the Package List and Upgrade:
+4.1 Update the Package List and Upgrade
 
 sudo apt-get update && sudo apt-get upgrade -y
 
@@ -55,10 +67,12 @@ suod apt-get install -y openssl
 
 Install Apache2, PHP, and MYSQL:
 
-sudo apt-get install -y apache2 php php-mysql mysql server
+sudo apt-get install -y mysql-sever
 
 Secure the MySql Installation optional but recommended
 
 sudo mysql_secure_installation
 
 4.3 
+
+
