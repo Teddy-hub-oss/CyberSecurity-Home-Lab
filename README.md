@@ -10,8 +10,6 @@
 ![image alt](https://github.com/Teddy-hub-oss/CyberSecurity-Home-Lab/blob/main/img.png?raw=true)
 
 
-
-
 ## The goal is to:
 
 1 Set up a vulnerable web application on Ubuntu, the web will be Damn Vulnerable Web Application(DVWA)
