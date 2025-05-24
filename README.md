@@ -31,7 +31,12 @@
 
 ## 3 Enable Bridged Networking for Ubuntu and Kali Linux
 
-To have VMs appear on the same network as your host and each other 
+To have VMs appear on the same network as your host and each other
+
+3.1 Open VirtualBox > select your VM (Ubuntu) (Kali) > Setting > Network.
+3.2 Adapter 1: Chosse Bridged Adapter from the "Attached to" drop-down.
+3.3 Select your host's network interface (Ethernet Wi-Fi) and Click OK
+3.4 Grab the IP address of the macchine and run the command "ifconfig" from the terminal
 
  Install Guest Additions can help with screen resizing shared clipboard and shared folders
 
